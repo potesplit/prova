@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "nome": "Carlo",
+    "descrizione": "spesa [NE]",
+    "importo": 100,
+    "partecipanti": [
+      "Carlo",
+      "Fabrizio",
+      "Filippo"
+    ],
+    "quote": {
+      "Carlo": 70,
+      "Fabrizio": 150,
+      "Filippo": 30
+    },
+    "gruppoId": "gmrwjayw8wj93wd"
+  },
+  {
+    "nome": "Fabrizio",
+    "descrizione": "spesa [NE]",
+    "importo": 100,
+    "partecipanti": [
+      "Carlo",
+      "Fabrizio",
+      "Filippo"
+    ],
+    "quote": {
+      "Carlo": 70,
+      "Fabrizio": 150,
+      "Filippo": 30
+    },
+    "gruppoId": "gmrwjayw8wj93wd"
+  },
+  {
+    "nome": "Filippo",
+    "descrizione": "spesa [NE]",
+    "importo": 100,
+    "partecipanti": [
+      "Carlo",
+      "Fabrizio",
+      "Filippo"
+    ],
+    "quote": {
+      "Carlo": 70,
+      "Fabrizio": 150,
+      "Filippo": 30
+    },
+    "gruppoId": "gmrwjayw8wj93wd"
+  }
+]
