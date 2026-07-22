@@ -67,5 +67,53 @@
     "importo": 10,
     "partecipanti": [],
     "gruppoId": "gmrwjh7i74vu09e"
+  },
+  {
+    "nome": "Carlo",
+    "descrizione": "prova solata di 40 [NE]",
+    "importo": 50,
+    "partecipanti": [
+      "Carlo",
+      "Fabrizio",
+      "Filippo"
+    ],
+    "quote": {
+      "Carlo": 20,
+      "Fabrizio": 20,
+      "Filippo": 20
+    },
+    "gruppoId": "gmrwqi3icnp88l5"
+  },
+  {
+    "nome": "Fabrizio",
+    "descrizione": "prova solata di 40 [NE]",
+    "importo": 40,
+    "partecipanti": [
+      "Carlo",
+      "Fabrizio",
+      "Filippo"
+    ],
+    "quote": {
+      "Carlo": 20,
+      "Fabrizio": 20,
+      "Filippo": 20
+    },
+    "gruppoId": "gmrwqi3icnp88l5"
+  },
+  {
+    "nome": "Filippo",
+    "descrizione": "prova solata di 40 [NE]",
+    "importo": 10,
+    "partecipanti": [
+      "Carlo",
+      "Fabrizio",
+      "Filippo"
+    ],
+    "quote": {
+      "Carlo": 20,
+      "Fabrizio": 20,
+      "Filippo": 20
+    },
+    "gruppoId": "gmrwqi3icnp88l5"
   }
 ]
