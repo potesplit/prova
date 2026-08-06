@@ -7,5 +7,19 @@
       "Eleonora"
     ],
     "gruppoId": "gmshqo7tog92r8r"
+  },
+  {
+    "nome": "Eleonora",
+    "descrizione": "spesa tiger",
+    "importo": 18.5,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Ilaria",
+      "Marcello",
+      "Sara",
+      "Serena"
+    ],
+    "gruppoId": "gmsi547wvolk4v4"
   }
 ]
