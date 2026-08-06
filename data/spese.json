@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "nome": "Eleonora",
+    "descrizione": "Spesa tiger",
+    "importo": 18.5,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Ilaria",
+      "Marcello",
+      "Sara",
+      "Serena"
+    ],
+    "gruppoId": "gmshqmkxpze4725"
+  }
+]
