@@ -1,16 +1,11 @@
 [
   {
     "nome": "Eleonora",
-    "descrizione": "Spesa tiger",
-    "importo": 18.5,
+    "descrizione": "Spesa tiger (ricamo ele)",
+    "importo": 6,
     "partecipanti": [
-      "Carlo",
-      "Eleonora",
-      "Ilaria",
-      "Marcello",
-      "Sara",
-      "Serena"
+      "Eleonora"
     ],
-    "gruppoId": "gmshqmkxpze4725"
+    "gruppoId": "gmshqo7tog92r8r"
   }
 ]
