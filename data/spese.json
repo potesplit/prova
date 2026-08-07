@@ -49,16 +49,6 @@
     "gruppoId": "gmsj6yadeoo7181"
   },
   {
-    "nome": "Francesco",
-    "descrizione": "Sagra vinaccia 1",
-    "importo": 29,
-    "partecipanti": [
-      "Filippo",
-      "Francesco"
-    ],
-    "gruppoId": "gmsjjezduv6bwjr"
-  },
-  {
     "nome": "Filippo",
     "descrizione": "Spesa 1 (pt.1)",
     "importo": 3.41,
