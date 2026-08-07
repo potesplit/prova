@@ -57,5 +57,21 @@
       "Francesco"
     ],
     "gruppoId": "gmsjjezduv6bwjr"
+  },
+  {
+    "nome": "Filippo",
+    "descrizione": "Spesa 1 (pt.1)",
+    "importo": 3.41,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Ilaria",
+      "Marcello",
+      "Serena",
+      "Simone"
+    ],
+    "gruppoId": "gmsjjmjay260ta4"
   }
 ]
