@@ -47,5 +47,15 @@
       "Serena"
     ],
     "gruppoId": "gmsj6yadeoo7181"
+  },
+  {
+    "nome": "Francesco",
+    "descrizione": "Sagra vinaccia 1",
+    "importo": 29,
+    "partecipanti": [
+      "Filippo",
+      "Francesco"
+    ],
+    "gruppoId": "gmsjjezduv6bwjr"
   }
 ]
