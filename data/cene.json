@@ -1,1 +1,187 @@
-[]
+[
+  {
+    "titolo": "Sagra vernaccia",
+    "sconti": {
+      "antipasto": 0,
+      "primi": 0,
+      "secondi": 0,
+      "contorni": 0,
+      "pizza": 0,
+      "panini": 0,
+      "frutta": 0,
+      "acqua": 0,
+      "caffe": 0,
+      "bibite": 0,
+      "birra": 0,
+      "vino": 0,
+      "liquori": 0,
+      "menu": 0,
+      "coperto": 0,
+      "dolci": 0
+    },
+    "persone": [
+      {
+        "nome": "Carlo",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "Eleonora",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "Marcello",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "Serena",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "Simone",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      }
+    ],
+    "speseCondivise": [
+      {
+        "descrizione": "Vernaccia",
+        "tipo": "divisa",
+        "importo": 13,
+        "partecipanti": [
+          "Eleonora",
+          "Serena",
+          "Simone"
+        ]
+      },
+      {
+        "descrizione": "Grigliata",
+        "tipo": "divisa",
+        "importo": 10,
+        "partecipanti": [
+          "Eleonora",
+          "Marcello"
+        ]
+      },
+      {
+        "descrizione": "Patatina",
+        "tipo": "divisa",
+        "importo": 4,
+        "partecipanti": [
+          "Carlo",
+          "Eleonora"
+        ]
+      },
+      {
+        "descrizione": "Coniglio",
+        "tipo": "divisa",
+        "importo": 8,
+        "partecipanti": [
+          "Carlo",
+          "Serena"
+        ]
+      },
+      {
+        "descrizione": "Cinghiale",
+        "tipo": "divisa",
+        "importo": 10,
+        "partecipanti": [
+          "Serena",
+          "Simone"
+        ]
+      },
+      {
+        "descrizione": "Pipe sugo",
+        "tipo": "divisa",
+        "importo": 8,
+        "partecipanti": [
+          "Marcello",
+          "Serena"
+        ]
+      }
+    ],
+    "pagatori": [
+      {
+        "nome": "Eleonora",
+        "importo": 27
+      },
+      {
+        "nome": "Serena",
+        "importo": 26
+      }
+    ]
+  }
+]
