@@ -34,5 +34,18 @@
       "Serena"
     ],
     "gruppoId": "gmsj5ua6cvsohia"
+  },
+  {
+    "nome": "Filippo",
+    "descrizione": "Benzina Macchina Filippo",
+    "importo": 28,
+    "partecipanti": [
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Marcello",
+      "Serena"
+    ],
+    "gruppoId": "gmsj6yadeoo7181"
   }
 ]
