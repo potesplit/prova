@@ -33,5 +33,18 @@
       "Serena"
     ],
     "gruppoId": "gmsj5ua6cvsohia"
+  },
+  {
+    "nome": "Filippo",
+    "descrizione": "Benzina andata macchina filippo",
+    "importo": 28,
+    "partecipanti": [
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Marcello",
+      "Serena"
+    ],
+    "gruppoId": "gmsj6j9sum43vx7"
   }
 ]
