@@ -21,5 +21,17 @@
       "Serena"
     ],
     "gruppoId": "gmsi547wvolk4v4"
+  },
+  {
+    "nome": "Filippo",
+    "descrizione": "Casello macchina Filippo",
+    "importo": 4.9,
+    "partecipanti": [
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Serena"
+    ],
+    "gruppoId": "gmsj5ua6cvsohia"
   }
 ]
