@@ -63,5 +63,17 @@
       "Simone"
     ],
     "gruppoId": "gmsjjmjay260ta4"
+  },
+  {
+    "nome": "Marcello",
+    "descrizione": "Gelati 1",
+    "importo": 12.22,
+    "partecipanti": [
+      "Carlo",
+      "Ilaria",
+      "Marcello",
+      "Simone"
+    ],
+    "gruppoId": "gmsjlkpymh4mias"
   }
 ]
