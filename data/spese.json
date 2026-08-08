@@ -75,5 +75,37 @@
       "Simone"
     ],
     "gruppoId": "gmsjlkpymh4mias"
+  },
+  {
+    "nome": "Carlo",
+    "descrizione": "Spesa 1 (pt.2)",
+    "importo": 107,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Ilaria",
+      "Marcello",
+      "Serena",
+      "Simone"
+    ],
+    "gruppoId": "gmskd3eg3gznspv"
+  },
+  {
+    "nome": "Serena",
+    "descrizione": "Spesa 1 (pt.2)",
+    "importo": 2,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Ilaria",
+      "Marcello",
+      "Serena",
+      "Simone"
+    ],
+    "gruppoId": "gmskd3eg3gznspv"
   }
 ]
