@@ -133,5 +133,16 @@
       "Simone"
     ],
     "gruppoId": "gmskd7lqgissleq"
+  },
+  {
+    "nome": "Serena",
+    "descrizione": "Crostata",
+    "importo": 8,
+    "partecipanti": [
+      "Ilaria",
+      "Marcello",
+      "Serena"
+    ],
+    "gruppoId": "gmskd98xffbk1b0"
   }
 ]
