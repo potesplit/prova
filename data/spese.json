@@ -107,5 +107,18 @@
       "Simone"
     ],
     "gruppoId": "gmskd3eg3gznspv"
+  },
+  {
+    "nome": "Simone",
+    "descrizione": "Birra 1",
+    "importo": 13.27,
+    "partecipanti": [
+      "Eleonora",
+      "Filippo",
+      "Ilaria",
+      "Marcello",
+      "Simone"
+    ],
+    "gruppoId": "gmskd5ihayeppj1"
   }
 ]
